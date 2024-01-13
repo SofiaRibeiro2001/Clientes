@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #F4EEEE;
+    background-image: url(https://i.pinimg.com/originals/41/fe/5d/41fe5dbe30a570621741bb93163dcf7d.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.titulo{
+    background-color: #FFDBAA;
+    color: #FFB7B7;
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.conteudo{
+    margin: 20px;
+}
+
+.botao{
+    font-family: Helvetica;
+    background-color: #96C291;
+    border-radius: 5px;
+    color:#F4EEEE;
+    text-decoration: none;
+    padding: 5px;
+    transition: 0.5s;
+}
+.botao:hover{
+    background-color: #FFB7B7;
+}
